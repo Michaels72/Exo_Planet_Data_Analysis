@@ -3,6 +3,8 @@
 ![](https://img3.goodfon.com/original/4096x2304/3/f6/dvoyniki-planeta-zemlya.jpg)
 
 
+Extrasolar planets, or exoplanets for short, are all the rage in astronomy these days.  Our excitement builds as we continue to search for life on newly discovered Earthlike planets.
+
 The accuracy score that produced the best result is Random Forest Classifier with an accuracy score of 95.4%. This model will tell us iof a new planet can host life with a 95.4% accuracy.
 
 Most of the planets were dicovered using the Transit Method.  The second most utilized method was RV Method.
